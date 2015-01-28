@@ -1,3 +1,8 @@
+#implemented by Nuruddin Iminokhunov
+# I am writing this tons of comments because of thinking of explanation
+#in normal case i wouldn't do that
+# it is for explaining the each step
+#thanks for Google, Wiki, GitHub for the help in this code :)
 
 # creating a new class to send different test lists/words 
 class An
